@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/166530598409754275/00bd06b37a6e4baa83bbee3aefa4db57/artifacts
+end_time: 1700279030865
+entry_point_name: ''
+experiment_id: '166530598409754275'
+lifecycle_stage: active
+run_id: 00bd06b37a6e4baa83bbee3aefa4db57
+run_name: classification/Class Weight - LGBMClassifier
+run_uuid: 00bd06b37a6e4baa83bbee3aefa4db57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700279024112
+status: 3
+tags: []
+user_id: dieud

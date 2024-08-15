@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/166530598409754275/d482fcb774574da2b68707445a72c2fc/artifacts
+end_time: 1700283504819
+entry_point_name: ''
+experiment_id: '166530598409754275'
+lifecycle_stage: active
+run_id: d482fcb774574da2b68707445a72c2fc
+run_name: classification/SMOTE - Regression logistique
+run_uuid: d482fcb774574da2b68707445a72c2fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700283489802
+status: 3
+tags: []
+user_id: dieud

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/166530598409754275/31e77989c1e14be98e6e4336346b900b/artifacts
+end_time: 1700278890860
+entry_point_name: ''
+experiment_id: '166530598409754275'
+lifecycle_stage: active
+run_id: 31e77989c1e14be98e6e4336346b900b
+run_name: classification/Class Weight - Regression logistique
+run_uuid: 31e77989c1e14be98e6e4336346b900b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700278886960
+status: 3
+tags: []
+user_id: dieud

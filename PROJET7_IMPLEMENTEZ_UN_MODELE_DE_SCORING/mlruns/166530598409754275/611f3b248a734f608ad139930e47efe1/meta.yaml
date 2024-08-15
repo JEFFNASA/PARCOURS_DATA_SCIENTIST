@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/166530598409754275/611f3b248a734f608ad139930e47efe1/artifacts
+end_time: 1700279369193
+entry_point_name: ''
+experiment_id: '166530598409754275'
+lifecycle_stage: active
+run_id: 611f3b248a734f608ad139930e47efe1
+run_name: classification/RandomUnderSampler - LGBMClassifier
+run_uuid: 611f3b248a734f608ad139930e47efe1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700279364357
+status: 3
+tags: []
+user_id: dieud

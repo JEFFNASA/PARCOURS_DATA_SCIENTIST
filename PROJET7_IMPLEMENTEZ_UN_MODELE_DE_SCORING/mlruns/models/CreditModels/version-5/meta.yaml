@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1700279242627
+current_stage: None
+description: ''
+last_updated_timestamp: 1700279242627
+name: CreditModels
+run_id: 497ebdd60407442b9d0ebcb32b02281a
+run_link: ''
+source: mlflow-artifacts:/166530598409754275/497ebdd60407442b9d0ebcb32b02281a/artifacts/RandomUnderSampler
+  Regression logistique
+status: READY
+status_message: null
+user_id: null
+version: 5

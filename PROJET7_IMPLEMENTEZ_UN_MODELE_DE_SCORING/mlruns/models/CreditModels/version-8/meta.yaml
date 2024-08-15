@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1700281581913
+current_stage: None
+description: ''
+last_updated_timestamp: 1700281581913
+name: CreditModels
+run_id: 433f32f825634ae3b9880f80e795ec73
+run_link: ''
+source: mlflow-artifacts:/166530598409754275/433f32f825634ae3b9880f80e795ec73/artifacts/RandomOverSampler
+  - LGBMClassifier
+status: READY
+status_message: null
+user_id: null
+version: 8

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/166530598409754275/012ffb9612c1482eadb4e963af4e198e/artifacts
+end_time: 1700281185285
+entry_point_name: ''
+experiment_id: '166530598409754275'
+lifecycle_stage: active
+run_id: 012ffb9612c1482eadb4e963af4e198e
+run_name: classification/RandomOverSampler Regression logistique
+run_uuid: 012ffb9612c1482eadb4e963af4e198e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700281176217
+status: 3
+tags: []
+user_id: dieud

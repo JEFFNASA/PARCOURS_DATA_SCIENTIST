@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1700278826484
+current_stage: None
+description: ''
+last_updated_timestamp: 1700278826484
+name: CreditModels
+run_id: e92dafc2e22342e09fd59c1492a70603
+run_link: ''
+source: mlflow-artifacts:/166530598409754275/e92dafc2e22342e09fd59c1492a70603/artifacts/Baseline
+  - LGBMClassifier
+status: READY
+status_message: null
+user_id: null
+version: 2

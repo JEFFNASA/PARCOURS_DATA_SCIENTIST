@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/166530598409754275/e92dafc2e22342e09fd59c1492a70603/artifacts
+end_time: 1700278826509
+entry_point_name: ''
+experiment_id: '166530598409754275'
+lifecycle_stage: active
+run_id: e92dafc2e22342e09fd59c1492a70603
+run_name: classification/Baseline - LGBMClassifier
+run_uuid: e92dafc2e22342e09fd59c1492a70603
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700278820118
+status: 3
+tags: []
+user_id: dieud

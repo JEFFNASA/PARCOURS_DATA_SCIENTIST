@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1700279030836
+current_stage: None
+description: ''
+last_updated_timestamp: 1700279030836
+name: CreditModels
+run_id: 00bd06b37a6e4baa83bbee3aefa4db57
+run_link: ''
+source: mlflow-artifacts:/166530598409754275/00bd06b37a6e4baa83bbee3aefa4db57/artifacts/Class
+  Weight - LGBMClassifier
+status: READY
+status_message: null
+user_id: null
+version: 4
